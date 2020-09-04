@@ -14,7 +14,7 @@ description: 防伪认证系统是“区块链防伪”业务下的其中一个�
 
 ## 业务流程
 
-![](.gitbook/assets/image%20%289%29.png)
+![流程图](http://md.stringon.com/img/%7Bfilename%7D%7B.suffix%7D20200904104846.png)
 
 1. **生产码：**由防伪码认证机构借助统进行生产防伪码。
 2. **制码：**生产好的码需要进行文件导出，导出后发给印刷厂进行印码。
