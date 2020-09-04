@@ -4,17 +4,18 @@ description: 系统所有的防伪码的归属情况管理
 
 # 归属管理
 
-1，查看系统当前剩余可用于划拨的防伪码数量（见图1）。
+1. 查看系统当前剩余可用于划拨的防伪码数量（见图1）。
 
-![&#x56FE;1](http://md.stringon.com/img/%7Bfilename%7D%7B.suffix%7D20200903170510.png)
+   ![&#x56FE;1](http://md.stringon.com/img/%7Bfilename%7D%7B.suffix%7D20200903170510.png)
 
-2，可查看某生产商的持有防伪码数量的信息，具体信息见图（图2）。
+2. 可查看某生产商的持有防伪码数量的信息，具体信息见图（图2）。
 
-![&#x56FE;2](http://md.stringon.com/img/%7Bfilename%7D%7B.suffix%7D20200903170531.png)
+   ![&#x56FE;2](http://md.stringon.com/img/%7Bfilename%7D%7B.suffix%7D20200903170531.png)
 
-3，可查看某个授权销售商持有的防伪码数量信息，首先点击某生产商的授权销售商数量（图3），即可查看该商家的所有授权销售商信息（图4）。
+3. 可查看某个授权销售商持有的防伪码数量信息，首先点击某生产商的授权销售商数量（图3），即可查看该商家的所有授权销售商信息（图4）。
 
-![&#x56FE;3](http://md.stringon.com/img/%7Bfilename%7D%7B.suffix%7D20200903170550.png)
+   ![&#x56FE;3](http://md.stringon.com/img/%7Bfilename%7D%7B.suffix%7D20200903170550.png)
 
-![&#x56FE;4](http://md.stringon.com/img/%7Bfilename%7D%7B.suffix%7D20200903170602.png)
+   ![&#x56FE;4](http://md.stringon.com/img/%7Bfilename%7D%7B.suffix%7D20200903170602.png)
+
 
