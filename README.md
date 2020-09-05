@@ -3,7 +3,7 @@
 
 ## 业务流程
 
-![&#x6D41;&#x7A0B;&#x56FE;](http://md.stringon.com/img/%7Bfilename%7D%7B.suffix%7D20200904104846.png)
+![](http://md.stringon.com/img/%7Bfilename%7D%7B.suffix%7D20200904104846.png)
 
 1. **生产码：**由防伪码认证机构借助统进行生产防伪码。
 2. **制码：**生产好的码需要进行文件导出，导出后发给印刷厂进行印码。
