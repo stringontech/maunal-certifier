@@ -33,7 +33,7 @@
 
 防伪标签可以设计成为何样式，系统中，可以定义多种的标签，便于在实际应用中为不同类型的商品贴不同的标签。
 
-![5irpDr](http://md.stringon.com/img/Tpsdqw.png)
+![防伪标签示意图](http://md.stringon.com/img/Tpsdqw.png)
 
 ## 防伪码的认证
 
