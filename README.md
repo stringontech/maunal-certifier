@@ -9,7 +9,9 @@
 
 本文档为防伪码服务商系统的使用手册，生产商相关操作参见 [数字工厂手册](https://help-matrix.stringon.com/c3/c3-3)。
 
-
+{% hint style="info" %}
+防伪码服务商系统：https://matrixauth.stringon.com/
+{% endhint %}
 
 ## 基本业务流程
 
